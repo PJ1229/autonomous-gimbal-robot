@@ -3,7 +3,7 @@ project by PJ Kim
 
 ## to-do:
 - [ ] order parts
-- [ ] set up ros 2 on raspi
+- [ ] set up ros2 on raspi
 
 ## dev rules:
 1. no ai agents in this repo (ai for research & planning only)
