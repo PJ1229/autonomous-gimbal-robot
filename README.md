@@ -10,5 +10,5 @@ project by PJ Kim
 2. this repo is the source of truth for the entire project
 
 ## external links
-- [devlog](documentation/devlog.mddevlog.md)
-- [part list](documentation/part-list.md)
+- [devlog](docs/devlog.mddevlog.md)
+- [part list](docs/part-list.md)
