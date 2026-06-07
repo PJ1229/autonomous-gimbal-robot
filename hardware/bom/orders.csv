@@ -1,0 +1,4 @@
+date,item,quantity,unit_price,total,supplier,order_number,eta_start,eta_end,status,notes
+2026-06-06,BTS7960 motor driver,3,11.05,33.14,Walmart,2000149-49464347,2026-06-22,2026-07-02,ordered,one per motor - 12V compatible
+2026-06-06,70mm omni wheel + 3mm clamp hex coupling,3,20.94,62.82,Amazon,113-8814706-5927456,2026-06-22,2026-07-02,ordered,3mm bore matches JGA12-N20B shaft
+2026-06-06,JGA12-N20B encoder gear motor 200RPM 12V,4,7.20,28.80,AliExpress,8212329737371495,2026-06-16,2026-06-24,ordered,verify bracket included in variant - check order details
