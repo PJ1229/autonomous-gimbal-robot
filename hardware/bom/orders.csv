@@ -2,3 +2,6 @@ date,item,quantity,unit_price,total,supplier,order_number,eta_start,eta_end,stat
 2026-06-06,BTS7960 motor driver,3,11.05,33.14,Walmart,2000149-49464347,2026-06-22,2026-07-02,ordered,one per motor - 12V compatible
 2026-06-06,70mm omni wheel + 3mm clamp hex coupling,3,20.94,62.82,Amazon,113-8814706-5927456,2026-06-22,2026-07-02,ordered,3mm bore matches JGA12-N20B shaft
 2026-06-06,JGA12-N20B encoder gear motor 200RPM 12V,4,7.20,28.80,AliExpress,8212329737371495,2026-06-16,2026-06-24,ordered,verify bracket included in variant - check order details
+2026-06-07,B6 balance charger 80W with power supply,1,38.98,38.98,Amazon,112-7693923-9876232,2026-06-09,2026-06-09,ordered,includes XT60 JST T connectors and power supply
+2026-06-07,Zeee 3S LiPo 2200mAh 11.1V 35C T connector,2,13.99,27.99,Amazon,112-7693923-9876232,2026-06-09,2026-06-09,ordered,2-pack - T connector matches charger cables
+2026-06-07,DC 12V to 5V USB-C buck converter 3A 15W,1,7.99,7.99,Amazon,112-7693923-9876232,2026-06-09,2026-06-09,ordered,powers Pi 5 from LiPo
