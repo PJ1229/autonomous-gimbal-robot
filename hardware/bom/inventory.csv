@@ -1,0 +1,26 @@
+category,item,quantity,unit,status,supplier,order_number,eta_start,eta_end,notes
+compute,Raspberry Pi 5 + active cooler,1,unit,in hand,,,,,Primary robot brain
+compute,Raspberry Pi 4,1,unit,in hand,,,,,Available for testing
+compute,Arduino R4 WiFi,2,unit,in hand,,,,,Available for peripheral control
+cameras,Raspberry Pi Camera Module,2,unit,in hand,,,,,Specs unknown — check ribbon connector
+sensors,LiDAR + controller,1,unit,in hand,,,,,Model unknown — verify ROS2 driver support
+motor_control,L298N motor driver,3,unit,in hand,,,,,Max 10V — not for 12V LiPo use
+motor_control,TT gear motor dual shaft 3-6V + bracket + wheels,4,unit,in hand,,,,,Good for early prototyping
+power,9V battery,2,unit,in hand,,,,, 
+power,9V battery to DC barrel jack adapter,4,unit,in hand,,,,,
+power,On/off switch wired,9,unit,in hand,,,,,
+prototyping,400-point breadboard,8,unit,in hand,,,,,
+prototyping,830-point breadboard,1,unit,in hand,,,,,
+prototyping,MicroSD 32GB,1,unit,in hand,,,,,Upgrade to 64GB if storage runs low
+prototyping,Assorted wires + transistors,0,lot,in hand,,,,,Qty unspecified
+prototyping,9-12V LED 5mm wired,30,unit,in hand,,,,,Approximate qty
+tools,Soldering kit,1,unit,in hand,,,,,
+tools,Wire cutters,1,unit,in hand,,,,,
+tools,Box cutter,1,unit,in hand,,,,,
+tools,Wood glue,1,unit,in hand,,,,,
+tools,Masking tape,1,unit,in hand,,,,,
+materials,Wooden sticks,0,lot,in hand,,,,,Qty unspecified
+materials,Origami paper 15x15cm,40,sheet,in hand,,,,,Approximate qty
+on_order,JGA12-N20B encoder motor 200RPM 12V,4,unit,ordered,AliExpress,8212329737371495,2026-06-16,2026-06-24,
+on_order,70mm omni wheel + 3mm coupling,3,unit,ordered,Amazon,113-8814706-5927456,2026-06-22,2026-07-02,
+on_order,BTS7960 motor driver,3,unit,ordered,Walmart,2000149-49464347,2026-06-22,2026-07-02,
