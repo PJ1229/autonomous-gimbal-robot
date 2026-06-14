@@ -4,9 +4,9 @@
 - [X] [4x N20 geat motor 12V 100rpm](https://www.aliexpress.us/item/3256806026901950.html?src=google&gatewayAdapt=glo2usa)
 - [X] [3x bts7960 motor driver 5.5-27V](https://www.aliexpress.us/item/2251801812908062.html?src=google&gatewayAdapt=glo2usa#nav-specification)
 ## power
-- [X] [3S LiPo 2200mAh]()
-- [X] [Balance charger]()
-- [X] [5V USB-C buck converter]()
+- [X] [3S LiPo 2200mAh](part-photos/power/lipo-battery.jpg)
+- [X] [Balance charger](part-photos/power/balance-charger.png)
+- [X] [5V USB-C buck converter](part-photos/power/buck-converter.png)
 ## compute
 - [X] [raspberry pi 5 wifi](inventory.md)
 - [X] [raspberry pi 5 cooler](inventory.md)

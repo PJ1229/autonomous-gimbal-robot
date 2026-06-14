@@ -6,7 +6,10 @@ cameras,Raspberry Pi Camera Module,2,unit,in hand,,,,,Specs unknown — check ri
 sensors,LiDAR + controller,1,unit,in hand,,,,,Model unknown — verify ROS2 driver support
 motor_control,L298N motor driver,3,unit,in hand,,,,,Max 10V — not for 12V LiPo use
 motor_control,TT gear motor dual shaft 3-6V + bracket + wheels,4,unit,in hand,,,,,Good for early prototyping
-power,9V battery,2,unit,in hand,,,,, 
+power,HILLDOW B6 80W balance charger + power supply,1,unit,in hand,,,,,Li-ion/LiPo/LiFe 1-6S; includes XT60 JST T connectors
+power,Zeee 3S LiPo 2200mAh 11.1V 35C,2,unit,in hand,,,,,T connector (Deans)
+power,DC 12V to 5V USB-C buck converter 3A 15W,1,unit,in hand,,,,,Acridina L116666 - powers Pi 5 from LiPo
+power,9V battery,2,unit,in hand,,,,,
 power,9V battery to DC barrel jack adapter,4,unit,in hand,,,,,
 power,On/off switch wired,9,unit,in hand,,,,,
 prototyping,400-point breadboard,8,unit,in hand,,,,,

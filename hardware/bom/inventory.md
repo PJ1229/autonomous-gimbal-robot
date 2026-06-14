@@ -1,6 +1,8 @@
 # Fred Film Bot — Hardware Inventory
 
-Last updated: 2026-06-06
+Last updated: 2026-06-07
+
+![Jun 14 power intake](part-photos/inventory/jun14.jpg)
 
 ## Compute
 | Item | Qty | Notes |
@@ -28,6 +30,9 @@ Last updated: 2026-06-06
 ## Power
 | Item | Qty | Notes |
 |------|-----|-------|
+| HILLDOW B6 80W balance charger + power supply | 1 | Li-ion/LiPo/LiFe 1–6S; includes XT60, JST, T connectors |
+| Zeee 3S LiPo 2200mAh 11.1V 35C | 2 | T connector (Deans) |
+| DC 12V→5V USB-C buck converter 3A 15W | 1 | Acridina L116666 — powers Pi 5 from LiPo |
 | 9V battery | 2 | |
 | 9V battery → DC barrel jack adapter | 4 | |
 | On/off switch (wired) | 9 | |
