@@ -1,6 +1,6 @@
 # Fred Film Bot — Hardware Inventory
 
-Last updated: 2026-06-07
+Last updated: 2026-06-14
 
 ![Jun 14 power intake](part-photos/inventory/jun14.jpg)
 
@@ -67,3 +67,4 @@ Last updated: 2026-06-07
 | JGA12-N20B encoder motor 200RPM 12V | 4 | AliExpress | 8212329737371495 | Jun 16–24 | ordered |
 | 70mm omni wheel + 3mm coupling | 3 | Amazon | 113-8814706-5927456 | Jun 22–Jul 2 | ordered |
 | BTS7960 motor driver | 3 | Walmart | 2000149-49464347 | Jun 22–Jul 2 | ordered |
+| Ninekong birch plywood 12×12 1/8″ 12-pack | 1 | Amazon | 112-0041733-2565822 | Jun 15 | ordered |

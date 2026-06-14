@@ -5,3 +5,5 @@ date,item,quantity,unit_price,total,supplier,order_number,eta_start,eta_end,stat
 2026-06-07,B6 balance charger 80W with power supply,1,38.98,38.98,Amazon,112-7693923-9876232,2026-06-09,2026-06-09,received,includes XT60 JST T connectors and power supply
 2026-06-07,Zeee 3S LiPo 2200mAh 11.1V 35C T connector,2,13.99,27.99,Amazon,112-7693923-9876232,2026-06-09,2026-06-09,received,2-pack - T connector matches charger cables
 2026-06-07,DC 12V to 5V USB-C buck converter 3A 15W,1,7.99,7.99,Amazon,112-7693923-9876232,2026-06-09,2026-06-09,received,powers Pi 5 from LiPo
+2026-06-14,M2 M3 540pcs bolt kit,1,9.99,9.99,Amazon,,2026-06-15,2026-06-15,ordered,hex socket head cap screws assortment with hex wrench
+2026-06-14,Ninekong birch plywood 12x12 1/8 inch 12-pack,1,25.55,25.55,Amazon,112-0041733-2565822,2026-06-15,2026-06-15,ordered,12 sheets 3mm birch for laser cutting and chassis prototyping

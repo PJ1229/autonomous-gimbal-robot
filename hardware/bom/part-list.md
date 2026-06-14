@@ -14,4 +14,11 @@
 ## sensors
 - [X] [lidar](inventory.md)
 ## wiring/hardware
+- [X] [M2/M3 540pcs bolt kit](part-photos/tools/m2m3-bolt-kit.png)
+- [X] [22AWG silicone wire + heat shrink](inventory.md)
+- [X] [Dupont jumper wire kit](inventory.md)
+## materials
+- [X] [12x12 birch plywood 1/8" 12-pack](https://www.amazon.com/dp/B0DLNJRP9L?th=1)
 ## arm/gimbal
+- [ ] 2x MG996R servos — order Week 5
+- [ ] 20mm carbon fiber tube ~300mm — order Week 5
