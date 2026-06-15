@@ -1,1 +1,37 @@
+# env
 *.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# CAD — SolidWorks source (keep STEP/STL exports only)
+*.sldprt
+*.sldasm
+*.swp
+~$*
+
+# CAD — Inventor temp/lock files
+*.bak
+*.lck
+*.tmp
+*.old
+*.log
+
+# CAD — snapshot / preview junk from downloaded models
+**/PARTS/
+**/RENDERS/
+**/Photo/
+**/*Snapshot*/
+*.dwg
+*.x3d
+*.3mf
+**/V[0-9]*.png
+desktop.ini
+**/Capture.PNG
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db

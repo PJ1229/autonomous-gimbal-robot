@@ -12,15 +12,15 @@ Last updated: 2026-06-15
 
 | Part | L × W × H | Weight | Mount / shaft | Chassis notes |
 |------|-----------|--------|---------------|---------------|
-| JGA12-N20B motor | 40 × 12 × 18 | — | M1.6×2 (9 mm spacing), **φ3 mm D-shaft** | Use included bracket; see motor drawing |
+| JGA12-N20B motor | 40 × 12 × 18 | — | M1.6×2 (9 mm spacing), **φ3 mm D-shaft** | CAD ref: `hardware/cad/refs/jga12-n20b/` |
 | Motor bracket | 25.4 × 14.4 × 9.85 | — | φ2.25 mm holes, 17.6 mm spacing | U-clamp over gearbox face |
-| 70 mm omni wheel | **φ70** × 35.4 wide | 83 g | **3 mm** clamp coupling | Ground clearance ≈ 35 mm to axle |
+| 70 mm omni wheel | **φ70** × 35.4 wide | 83 g | **3 mm** clamp coupling | CAD ref: `hardware/cad/refs/omni-wheel-70mm/` |
 | 3 mm hex coupling | 12 edge-to-edge | 8.3 g | Clamps onto motor shaft | Matches N20 shaft |
-| BTS7960 (IBT-2) driver ×3 | 50 × 50 × 43 | ~66 g | 4× corner holes (M3 typical) | Needs airflow; one per motor |
-| Raspberry Pi 5 | 85 × 56 × ~17 | 45 g | 4× M2.5 holes (58 × 49 mm pattern) | Standoffs; leave USB/power side clear |
-| Pi 5 active cooler | 63.5 × 42.5 × 13.7 | — | Clips to Pi 5 | **+13.7 mm** above board on CPU side |
+| BTS7960 (IBT-2) driver ×3 | 50 × 50 × 43 | ~66 g | 4× corner holes (M3 typical) | CAD ref: `hardware/cad/refs/ibt-2/` |
+| Raspberry Pi 5 + cooler | 85 × 56 × ~32 | 45 g | 4× M2.5 holes (58 × 49 mm pattern) | CAD ref: `raspberry-pi-5-cooler.step` |
+| Pi 5 active cooler | 63.5 × 42.5 × 13.7 | — | Included in cooler assembly | +13.7 mm above board |
 | Pi Camera Module ⚠️ | 25 × 24 × ~11.5 | — | 2× M2 holes (CM2/CM3 PCB) | Confirm which module you have |
-| YDLIDAR X4PRO | **110.6 × 71.1 × 52.3** | — | Base plate, center mount | **360° clear** above deck; see datasheet |
+| YDLIDAR X4PRO | **110.6 × 71.1 × 52.3** | — | Base plate, center mount | CAD ref: `hardware/cad/refs/ydlidar-x4pro/` |
 | Zeee 3S LiPo 2200 mAh | 102 × 34 × 23 | 170 g | Velcro / strap bay | T-plug + JST-XH stick out ~15 mm |
 | Buck converter (LY-1658) | ~45 × 20 × 10 ⚠️ | — | 2× tab screw holes | Measure on arrival; not on Amazon listing |
 | MG996R servo ×2 (planned) | 40.7 × 19.7 × 42.9 | 55 g | M3, 40 × 49 mm hole pattern | Gimbal pan + tilt |
@@ -31,6 +31,8 @@ Last updated: 2026-06-15
 ## Drive Train
 
 ### JGA12-N20B encoder motor (ordered ×4)
+
+CAD reference: [`hardware/cad/refs/jga12-n20b/`](../cad/refs/jga12-n20b/) (`jga12-n20b.sat`)
 
 ![Motor drawing](part-photos/drive/motor.jpeg)
 
@@ -65,6 +67,8 @@ Last updated: 2026-06-15
 
 ### 70 mm omni wheel + 3 mm coupling (ordered ×3)
 
+CAD reference: [`hardware/cad/refs/omni-wheel-70mm/`](../cad/refs/omni-wheel-70mm/) — export `omni-wheel-70mm.step` from `Omni_4_70.SLDASM` for Inventor; STLs work as mesh fallback
+
 ![Wheel specs](part-photos/drive/omni-wheel.jpg)
 
 | Dimension | Value |
@@ -86,6 +90,8 @@ Last updated: 2026-06-15
 
 ### BTS7960 / IBT-2 motor driver (ordered ×3)
 
+CAD reference: [`hardware/cad/refs/ibt-2/`](../cad/refs/ibt-2/) (`ibt-2.step`)
+
 ![Driver board](part-photos/drive/motor-driver.jpeg)
 
 | Dimension | Value |
@@ -105,6 +111,8 @@ Last updated: 2026-06-15
 
 ### Raspberry Pi 5 + active cooler (in hand)
 
+CAD reference: [`hardware/cad/refs/raspberry-pi-5/`](../cad/refs/raspberry-pi-5/) (`raspberry-pi-5-cooler.step`)
+
 | Dimension | Value |
 |-----------|-------|
 | Board (L × W) | **85 × 56** |
@@ -121,6 +129,8 @@ Last updated: 2026-06-15
 ---
 
 ### YDLIDAR X4PRO (in hand ×1)
+
+CAD reference: [`hardware/cad/refs/ydlidar-x4pro/`](../cad/refs/ydlidar-x4pro/) (`ydlidar-x4pro.step`)
 
 ![YDLIDAR X4PRO](part-photos/sensors/ydlidar-x4pro.png)
 
@@ -265,7 +275,7 @@ For a triangular layout with 70 mm wheels, a **120–150 mm** spacing between wh
 
 - [ ] Pi Camera — confirm CM1 / CM2 / CM3 / HQ
 - [ ] Buck converter — L × W × H and tab hole spacing
-- [ ] BTS7960 — confirm mount hole spacing (measure board)
+- [ ] BTS7960 — confirm mount hole spacing on physical board (CAD ref available)
 - [ ] N20 motor — verify bracket included in AliExpress shipment
 - [ ] Omni wheel coupling — confirm 3 mm bore on physical part
 
