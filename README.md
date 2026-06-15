@@ -12,3 +12,4 @@ project by PJ Kim
 ## external links
 - [devlog](docs/devlog.md)
 - [part list](hardware/bom/part-list.md)
+- [chassis dimensions](hardware/bom/chassis-dimensions.md)

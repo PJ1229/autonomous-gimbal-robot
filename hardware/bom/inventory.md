@@ -1,6 +1,6 @@
 # Fred Film Bot — Hardware Inventory
 
-Last updated: 2026-06-14
+Last updated: 2026-06-15
 
 ![Jun 14 power intake](part-photos/inventory/jun14.jpg)
 
@@ -19,7 +19,7 @@ Last updated: 2026-06-14
 ## Sensors
 | Item | Qty | Notes |
 |------|-----|-------|
-| LiDAR + controller | 1 | Model unknown — verify ROS2 driver support |
+| YDLIDAR X4PRO | 1 | 110.6×71.1×52.3 mm; 0.12–10 m; 360°; UART @ 5 V; [Amazon](https://www.amazon.com/EC-Buying-Triangular-Raspberry-Navigation/dp/B0D3CWVSZX) · [datasheet](https://static.generation-robots.com/media/YDLIDARX4PRODatasheet.pdf) |
 
 ## Motor Control
 | Item | Qty | Notes |

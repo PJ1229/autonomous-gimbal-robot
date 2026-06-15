@@ -3,7 +3,7 @@ compute,Raspberry Pi 5 + active cooler,1,unit,in hand,,,,,Primary robot brain
 compute,Raspberry Pi 4,1,unit,in hand,,,,,Available for testing
 compute,Arduino R4 WiFi,2,unit,in hand,,,,,Available for peripheral control
 cameras,Raspberry Pi Camera Module,2,unit,in hand,,,,,Specs unknown — check ribbon connector
-sensors,LiDAR + controller,1,unit,in hand,,,,,Model unknown — verify ROS2 driver support
+sensors,YDLIDAR X4PRO,1,unit,in hand,,,,,110.6x71.1x52.3mm; 0.12-10m; 360deg; UART 5V; ydlidar_ros2_driver
 motor_control,L298N motor driver,3,unit,in hand,,,,,Max 10V — not for 12V LiPo use
 motor_control,TT gear motor dual shaft 3-6V + bracket + wheels,4,unit,in hand,,,,,Good for early prototyping
 power,HILLDOW B6 80W balance charger + power supply,1,unit,in hand,,,,,Li-ion/LiPo/LiFe 1-6S; includes XT60 JST T connectors

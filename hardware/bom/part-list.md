@@ -12,13 +12,15 @@
 - [X] [raspberry pi 5 cooler](inventory.md)
 - [X] [32gb microSD card](inventory.md)
 ## sensors
-- [X] [lidar](inventory.md)
+- [X] [YDLIDAR X4PRO](https://www.amazon.com/EC-Buying-Triangular-Raspberry-Navigation/dp/B0D3CWVSZX) ([photo](part-photos/sensors/ydlidar-x4pro.png))
 ## wiring/hardware
 - [X] [M2/M3 540pcs bolt kit](part-photos/tools/m2m3-bolt-kit.png)
 - [X] [22AWG silicone wire + heat shrink](inventory.md)
 - [X] [Dupont jumper wire kit](inventory.md)
 ## materials
 - [X] [12x12 birch plywood 1/8" 12-pack](https://www.amazon.com/dp/B0DLNJRP9L?th=1)
+
+See [chassis-dimensions.md](chassis-dimensions.md) for part sizes and mount specs for CAD.
 ## arm/gimbal
 - [ ] 2x MG996R servos — order Week 5
 - [ ] 20mm carbon fiber tube ~300mm — order Week 5
