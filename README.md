@@ -2,12 +2,12 @@
 project by PJ Kim
 
 ## to-do:
-- [ ] order parts
-- [ ] set up ros2 on raspi
+- [x] order parts
+- [x] set up ros2 on raspi
+- [ ] assemble pieces
 
 ## dev rules:
-1. no ai agents in this repo (ai for research & planning only)
-2. this repo is the source of truth for the entire project
+1. this repo is the source of truth for the entire project
 
 ## external links
 - [devlog](docs/devlog.md)
