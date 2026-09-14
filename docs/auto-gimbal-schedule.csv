@@ -1,0 +1,12 @@
+task,due_date,work_block,cadence,deliverable,acceptance_evidence
+Auto Gimbal — Retrieve robot and make a photo inventory,2026-09-17,Thursday hardware pickup,one-time,Ready/missing/fabrication checklist,Photos of all recovered hardware and a written checklist
+Auto Gimbal — Make fabrication-ready chassis plan and CAD export,2026-09-20,Independent planning session,one-time,Cut list drill/mount order and CAD export,Exported CAD file and fabrication sequence
+Auto Gimbal — Monday build block,2026-09-21,Monday 4:30 PM-7:30 PM,weekly through 2026-12-07,One tangible build artifact,Commit CAD export or wiring diagram plus an acceptance check
+Auto Gimbal — Build rolling chassis and save photo evidence,2026-09-25,Friday integration session,one-time,Mounted drivetrain and rolling chassis,Photo evidence of assembled rolling chassis
+Auto Gimbal — Friday integration and devlog block,2026-09-25,Friday 2:30 PM-4:30 PM,weekly through 2026-12-11,One integration test and devlog,Photo or video plus changed/evidence/next blocker log
+Auto Gimbal — Prove safe power and motor-driver control,2026-10-02,Friday integration session,one-time,Labeled wiring diagram and motor-driver bench proof,Pass/fail test video
+Auto Gimbal — Demonstrate teleop driving,2026-10-09,Friday integration session,one-time,Launch and command notes plus rolling test,30-second uncut driving clip
+Auto Gimbal — Validate LiDAR obstacle avoidance,2026-10-30,Friday integration session,one-time,Reactive obstacle stop/turn behavior,Three successful trial clips
+Auto Gimbal — Demonstrate camera pan and tilt,2026-11-06,Friday integration session,one-time,Controllable camera feed and pan/tilt,Recorded pan/tilt proof
+Auto Gimbal — Run full-system route test,2026-11-20,Friday integration session,one-time,Integrated drivetrain LiDAR and gimbal/camera run,Route-test recording and noted failures
+Auto Gimbal — Record final demo and update documentation,2026-12-04,Friday integration session,one-time,Reliable demo recording system diagram and README update,Final video and current documentation
