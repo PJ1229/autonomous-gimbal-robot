@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="280.0mm" height="242.5mm"
+     viewBox="-145.000 -142.409 290.000 252.487">
+  <!-- Chassis plate cut outline. Units mm. Same hexagon as Inventor chassis, scaled ~2.33x. -->
+  <!-- Bbox: 280.0 x 242.5 mm. Fits 305x305 plywood. -->
+  <path d="M-140.000,32.330 L-97.999,105.078 L97.999,105.078 L140.000,32.330 L42.001,-137.409 L-42.001,-137.409 Z" fill="none" stroke="#000" stroke-width="0.5"/>
+</svg>

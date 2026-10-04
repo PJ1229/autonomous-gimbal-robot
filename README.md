@@ -2,14 +2,15 @@
 project by PJ Kim
 
 ## to-do:
-- [x] order parts
-- [x] set up ros2 on raspi
-- [ ] assemble pieces
+- [ ] order parts
+- [ ] set up ros2 on raspi
 
 ## dev rules:
-1. this repo is the source of truth for the entire project
+1. no ai agents in this repo (ai for research & planning only)
+2. this repo is the source of truth for the entire project
 
 ## external links
 - [devlog](docs/devlog.md)
 - [part list](hardware/bom/part-list.md)
 - [chassis dimensions](hardware/bom/chassis-dimensions.md)
+- [base layout (rough CAD)](hardware/cad/base-layout.md)

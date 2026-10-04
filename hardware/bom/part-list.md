@@ -20,6 +20,7 @@
 - [X] [12x12 birch plywood 1/8" 12-pack](https://www.amazon.com/dp/B0DLNJRP9L?th=1)
 
 See [chassis-dimensions.md](chassis-dimensions.md) for part sizes and mount specs for CAD.
+See [base-layout.md](../cad/base-layout.md) for simplified blocking sizes on the base plate.
 ## arm/gimbal
 - [ ] 2x MG996R servos — order Week 5
 - [ ] 20mm carbon fiber tube ~300mm — order Week 5
